@@ -1,4 +1,4 @@
-![example workflow](https://github.com/github/ladanyiattila/actions/workflows/maven.yml/badge.svg)
+![example workflow](https://github.com/ladanyiattila/se-lab/actions/workflows/maven.yml/badge.svg)
 
 # SE Spaceship
 
