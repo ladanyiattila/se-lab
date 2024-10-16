@@ -1,5 +1,5 @@
 ![example workflow](https://github.com/ladanyiattila/se-lab/actions/workflows/maven.yml/badge.svg)
-
+![example workflow](https://img.shields.io/github/license/ladanyiattila/se-lab)
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
